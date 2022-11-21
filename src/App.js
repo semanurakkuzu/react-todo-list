@@ -47,7 +47,7 @@ function App() {
           </div>
           <div className="col-1">
             <button
-              className="btn btn-outline-secondary"
+              className="btn btn-outline-primary"
               type="button"
               onClick={addNewTodo}
             >
@@ -75,7 +75,7 @@ function App() {
             </div>
             <div className="col-1">
               <button
-                className="btn btn-outline-secondary"
+                className="btn btn-outline-danger"
                 type="button"
                 onClick={() => deleteTodo(index)}
               >
