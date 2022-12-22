@@ -1,4 +1,4 @@
-# Todo with React 
+# TodoList with React 
 
 ![todolist](https://user-images.githubusercontent.com/110597975/209097252-477c5e87-31c3-4f28-8e2c-7a9c26314a36.png)
 
